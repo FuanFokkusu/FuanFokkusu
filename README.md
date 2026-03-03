@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+;Learning+new+things"></a>
 </p>
 
-<img align="right" width=260px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdyeHhrcnQ4cG43Z3M0dHhnMWdsMjVwaXN3YWNoMDlxczh4NTgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L7GgVvUpgNPxFKf3Ce/giphy.gif" />
+<img align="right" width="200" height="244" alt="image" src="https://media.tenor.com/1zivSlufns8AAAAj/overwatch-sileprinstudios.gif" />
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdoM2dnMHUxYjNnNXkwcXZjem5yYWU1ZXE2b2E0dzU4Zm5yM2trbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CCZJtvFXF1rOla11IR/giphy.gif" width="30px">&nbsp;***About me***
 
